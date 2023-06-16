@@ -12,12 +12,14 @@ To write a python program to find the rank of a matrix
 ## Program:
 
 #Program to find the rank of a matrix.
+```
 #Developed by: K.SANTHANA LAKSHMI
 #RegisterNumber: 212222240091
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 B=np.linalg.matrix_rank(A)
 print(B)
+```
 
 
 ## Output:
